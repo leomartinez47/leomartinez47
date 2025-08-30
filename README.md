@@ -1,4 +1,4 @@
-## Hi there 👋
+CS student and the University of Utah
 
 <!--
 **leomartinez47/leomartinez47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
