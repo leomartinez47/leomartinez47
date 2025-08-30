@@ -1,4 +1,7 @@
-CS student and the University of Utah
+I'm a CS student at the University of Utah.
+
+email: leomartinez4723@gmail.com
+linkedIn: https://www.linkedin.com/in/leonardo-martinez-madeira/
 
 <!--
 **leomartinez47/leomartinez47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
