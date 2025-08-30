@@ -1,4 +1,5 @@
 I'm a CS student at the University of Utah.
+I love music and I'm starting to enjoy this whole coding thing.
 
 email: leomartinez4723@gmail.com
 linkedIn: https://www.linkedin.com/in/leonardo-martinez-madeira/
