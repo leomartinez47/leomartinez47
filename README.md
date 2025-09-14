@@ -1,1 +1,1 @@
-I'm starting to like this whole coding thing.     
+Currently obsessed with audio programming.
