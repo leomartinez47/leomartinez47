@@ -1,1 +1,1 @@
-Currently becoming obsessed with audio programming.
+3rd Year CS student at the University of Utah, currently training to be a c++ wizard.
