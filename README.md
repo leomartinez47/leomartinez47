@@ -1,1 +1,1 @@
-3rd Year CS student at the University of Utah, currently training to be a c++ wizard.
+3rd Year CS student at the University of Utah, C++ wizard in training.
